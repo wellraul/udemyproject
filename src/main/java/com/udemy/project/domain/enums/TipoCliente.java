@@ -25,7 +25,6 @@ public enum TipoCliente {
 	public static TipoCliente toEnum(Integer cod) {
 
 		
-		
 		if (cod == null) {
 			return null;
 		}
